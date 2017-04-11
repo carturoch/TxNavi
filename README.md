@@ -1,5 +1,5 @@
 # TxNavi
-Sublime Text to navigrate through references used in `.link` files
+Sublime Text plugin to navigate through references used in `.link` files
 
 ## Install
   - Clone or download git repo into your packages folder (in ST, find Browse Packages... menu item to open this folder
